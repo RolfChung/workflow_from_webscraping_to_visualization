@@ -8,7 +8,8 @@ data visualization.
 <p>
 The web scraping is done with the Request and BeautifulSoup packages.<br>
 The Yahoo finance API "yfinance" is also used here.<br>
-The data visualizations are interactive and realized largely Plotly express and Plottly graph objects. The plots are not displayed without browser extensions like Xdocs on Google Chrome."
+The data visualizations are interactive and realized largely with Plotly express and Plottly graph objects. 
+The interactivity of the plots are not displayed without browser extensions like Xdocs on Google Chrome."
 <p> 
 
     <p>
