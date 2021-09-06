@@ -1,0 +1,51 @@
+,Rank,Name,Industry,Revenue,Profit,Employees,Headquarters
+0,1,Walmart,Retail,559.151,13.6,2300000,United States
+1,2,State Grid,Electricity,386.618,5.58,896360,China
+2,3,Amazon,"Retail, Information Technology",386.064,21.331,1335000,United States
+3,4,China National Petroleum,Oil and gas,283.958,4.575,1242245,China
+4,5,Sinopec Group,Oil and gas,283.728,6.205,553833,China
+5,6,Apple,Electronics,274.515,57.411,147000,United States
+6,7,CVS Health,Healthcare,268.706,7.179,256500,United States
+7,8,UnitedHealth,Healthcare,257.141,15.403,330000,United States
+8,9,Toyota,Automotive,256.722,21.18,366283,Japan
+9,10,Volkswagen,Automotive,253.965,10.104,662575,Germany
+10,11,Berkshire Hathaway,Financials,254.51,42.521,360000,United States
+11,12,McKesson,Healthcare,238.228,-4.539,67500,United States
+12,13,China State Construction,Construction,234.425,3.578,356864,China
+13,14,Saudi Aramco,Oil and gas,229.766,49.287,79800,Saudi Arabia
+14,15,Samsung Electronics,Electronics,200.734,22.116,267937,South Korea
+15,16,Ping An Insurance,Financials,191.509,20.739,362035,China
+16,17,AmerisourceBergen,Healthcare,189.894,-3.409,21500,United States
+17,18,BP,Oil and gas,183.5,-20.305,68100,United Kingdom
+18,19,Royal Dutch Shell,Oil and gas,183.195,-21.68,87000,Netherlands
+19,20,ICBC,Financials,182.794,45.783,439787,China
+20,21,Alphabet,Information technology,182.527,40.269,144056,United States
+21,22,Foxconn,Electronics,181.945,3.457,878429,Taiwan
+22,23,ExxonMobil,Oil and gas,181.502,-22.44,72000,United States
+23,24,Daimler,Automotive,175.827,4.133,288481,Germany
+24,25,China Construction Bank,Financials,172.0,39.283,373814,China
+25,26,AT&T,Telecommunications,171.76,-5.176,230760,United States
+26,27,Microsoft,Information technology,168.09,61.27,181000,United States
+27,28,Costco,Retail,166.761,4.002,214500,United States
+28,29,Cigna,Healthcare,160.401,8.458,72963,United States
+29,30,Agricultural Bank of China,Financials,153.885,31.293,462592,China
+30,31,Cardinal Health,Healthcare,152.922,-3.696,48000,United States
+31,32,Trafigura,Commodities,146.994,1.699,8619,Singapore
+32,33,China Life Insurance,Insurance,144.589,4.648,183417,China
+33,34,Glencore,Commodities,142.338,-1.903,87822,Switzerland
+34,35,China Railway Engineering Corporation,Construction,141.384,1.639,308483,China
+35,36,Walgreens Boots Alliance,Retail,139.537,4.56,450000,United States
+36,37,Exor,Holding company,136.186,-34.0,263284,Netherlands
+37,38,Allianz,Financials,136.173,7.756,150269,Germany
+38,39,Bank of China,Financials,134.046,27.952,309084,China
+39,40,Kroger,Retail,132.498,2.585,465000,United States
+40,41,Home Depot,Retail,132.11,12.87,504800,United States
+41,42,China Railway Construction,Construction,131.992,1.486,364632,China
+42,43,JPMorgan Chase,Financials,129.503,29.131,260110,United States
+43,44,Huawei,Electronics,129.184,9.362,197000,China
+44,45,Verizon,Telecommunications,128.292,17.801,135500,United States
+45,46,AXA,Financials,128.011,3.605,96595,France
+46,47,Ford,Automotive,127.144,-1.279,186000,United States
+47,48,Honda,Automotive,124.241,6.202,211374,Japan
+48,49,General Motors,Automotive,122.485,6.427,155000,United States
+49,50,Anthem,Healthcare,121.867,4.572,83400,United States
